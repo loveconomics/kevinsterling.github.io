@@ -10,7 +10,7 @@ I am an environmental economist studying externalities, with an interest in wast
 
 I also work on broader macroeconomic questions such as business cycles and consumer finance.
 
-Outside of work, I love spending time with wife, our son and our long-haired dachshund, Toni. 
+Outside of academia, I love spending time with wife, our son and our long-haired dachshund, Toni. I also compete in triathlons. 
 
 ## Upcoming Presentations
 
