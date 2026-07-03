@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+I am an environmental economist studying externalities, with a particular focus on waste management, climate change, and environmental policy. 
