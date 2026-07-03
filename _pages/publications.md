@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 ## Publications
-
-1. **On High-Quality Development and Two-Tier Stochastic Frontier Analysis**  
-with Alecos Papadopoulos and Christopher F. Parmeter  
-*Energy Economics*, 2026. (https://doi.org/10.1016/j.eneco.2026.109463)
+1. **[On High-Quality Development and Two-Tier Stochastic Frontier Analysis](https://doi.org/10.1016/j.eneco.2026.109463)**  
+   with Alecos Papadopoulos and Christopher F. Parmeter  
+   *Energy Economics*, 2026.
 
 ## Works in Progress
 
