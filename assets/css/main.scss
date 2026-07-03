@@ -39,23 +39,18 @@
 ;
 
 
-/* Custom navigation spacing */
-.site-title {
-    margin-right: 100px;
-}
-
-.greedy-nav .visible-links li {
-    margin-left: 30px;
-}
-
-/* Green background behind the navigation */
-.masthead {
-    background-color: #1B4332;
-}
-
-/* Navigation bar itself */
+/* Entire navigation area */
+.masthead,
+.masthead__inner-wrap,
 .greedy-nav {
-    background-color: #1B4332;
+    background: #1B4332 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Remove the white background behind the links */
+.greedy-nav .visible-links {
+    background: transparent !important;
 }
 
 /* Navigation links */
@@ -65,9 +60,4 @@
 
 .greedy-nav a:hover {
     color: #d4d4d4;
-}
-
-.greedy-nav {
-    border: none;
-    box-shadow: none;
 }
