@@ -12,15 +12,14 @@ author_profile: true
 
 ## Works in Progress
 
-**The Social Cost of Waste**  
+1. **The Social Cost of Waste**  
 
-**Price and Quantity Regulation in an Inflationary Economy**  
+2. **Price and Quantity Regulation in an Inflationary Economy**  
 with David L. Kelly  
 
-
-**Default without Discharge**  
+3. **Default without Discharge**  
 with Stefania Albanesi and Jiaqi Yang   
 
-**Credit Scores as a Financial Accelerator**  
+4. **Credit Scores as a Financial Accelerator**  
 
 
