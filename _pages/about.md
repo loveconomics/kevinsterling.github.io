@@ -17,7 +17,6 @@ Outside of academia, I love spending time with wife, our son and our long-haired
 ## Upcoming Presentations
 
 ## Upcoming Presentations
-## Upcoming Presentations
 
 | Date | Event | Location | Papers |
 |:-----|:------|:---------|:-------|
