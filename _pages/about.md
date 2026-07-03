@@ -18,4 +18,4 @@ Outside of academia, I love spending time with wife, our son and our long-haired
 
 | Date | Event | Location | Papers |
 |:-----|:------|:---------|:-------|
-| November 2026 | Southern Economic Association Annual Meeting | Houston, TX | <ul><li>*The Social Cost of Waste*</li><li>*Price and Quantity Regulation in an Inflationary Economy (with David L. Kelly)*</li><li>*Credit Scores as a Financial Accelerator*</li></ul> |
+| November 2026 | Southern Economic Association Annual Meeting | Houston, TX | *The Social Cost of Waste*<br>*Price and Quantity Regulation in an Inflationary Economy* with David L. Kelly<br>*Credit Scores as a Financial Accelerator* |
